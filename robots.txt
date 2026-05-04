@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://NijiDevCedre.github.io/handbook-21hc9y/sitemap.xml
